@@ -30,11 +30,6 @@ This project is part of **Advanced Operating Systems **, covering:
 - `PUT /tasks/:id/incomplete`: Mark task as incomplete
 - `PUT /tasks/:id/priority`: Change task priority
 
-### Filtering (via query params)
-- `/tasks?completed=true|false`
-- `/tasks?priority=high|medium|low`
-- `/tasks?due_date=YYYY-MM-DD`
-
 ###  Swagger Documentation
 Interactive API docs available at:  
 **http://localhost:3000/api-docs**
@@ -46,8 +41,4 @@ Interactive API docs available at:
 - **Backend:** Node.js (Express.js)
 - **Documentation:** Swagger (OpenAPI 3.0)
 - **Containerization:** Docker (Node 18 Alpine, multi-stage)
-
----
-
-##  Project Structure
 
