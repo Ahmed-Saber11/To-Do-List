@@ -6,7 +6,7 @@ This project demonstrates API development, Docker containerization, multi-stage 
 ---
 
 ## Project Scope
-This project is part of **Advanced Operating Systems **, covering:
+This project is part of Advanced Operating Systems , covering:
 
 - Docker bridge networking
 - Container volumes and data persistence
